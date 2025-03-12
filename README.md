@@ -100,7 +100,3 @@ Este projeto busca integrar conhecimentos teóricos e práticos em eletrônica i
 - Material fornecido pelo professor.
 - Normas técnicas relacionadas à automação industrial e manutenção eletrônica.
 - Documentação de protocolos industriais (Modbus, Profibus, Ethernet/IP).
-
----
-
-**Boa sorte no desenvolvimento do projeto!**
