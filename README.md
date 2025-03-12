@@ -1,7 +1,6 @@
 # PLAME (Planejamento da Manutenção Eletrônica Industrial) 
 
-## Disciplina: Tecnologia em Eletrônica Industrial
-### Prof. Luis Carlos Canno
+## Tecnologia em Eletrônica Industrial
 
 ### Objetivo do Projeto
 O objetivo deste projeto é diagnosticar e otimizar um sistema de automação industrial em uma fábrica de dispositivos eletrônicos. O foco está na identificação de falhas no processo de montagem automatizada, envolvendo sensores, atuadores, controladores lógicos programáveis (CLPs) e sistemas de comunicação. A partir dessa análise, os grupos deverão propor soluções técnicas eficazes para melhorar a eficiência do sistema, reduzir falhas e garantir a qualidade da produção.
